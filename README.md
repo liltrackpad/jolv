@@ -10,12 +10,9 @@
 - Terminal & custom commands 
 
 ## Usage
-- Run command
 ```
 go main.go
 ```
-
-- Select options you want and wait for it to build
 
 ### Release
 - I will release this as soon as im finished developing its
