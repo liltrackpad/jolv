@@ -15,4 +15,4 @@ go main.go
 ```
 
 ### Release
-- I will release this as soon as im finished developing its
+- I will release this as soon as im finished developing it
